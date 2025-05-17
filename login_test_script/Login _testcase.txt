@@ -1,0 +1,8 @@
+1. Browser is Open then https://www.saucedemo.com/v1/ is launched
+2. Verify if Login screen present or not
+3. Input username : standard_user
+4. Input password : secret_sauce
+5. Click login button
+6. Verify if header is present
+7. Expand menu
+8. Logout
